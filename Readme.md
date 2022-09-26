@@ -1,3 +1,5 @@
+https://user-images.githubusercontent.com/16525001/192302400-1da919f2-1599-4ad8-93ec-c9022319aa3d.mp4
+
 # Starter Template Nuxt Vuetify CMS
 
 <p align="center">
